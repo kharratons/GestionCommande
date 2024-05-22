@@ -1,0 +1,5 @@
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net5.0\MODEL.csproj.AssemblyReference.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net5.0\MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net5.0\MODEL.AssemblyInfoInputs.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net5.0\MODEL.AssemblyInfo.cs
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net5.0\MODEL.csproj.CoreCompileInputs.cache

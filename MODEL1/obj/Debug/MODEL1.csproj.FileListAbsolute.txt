@@ -1,0 +1,6 @@
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL1\bin\Debug\MODEL1.dll
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL1\bin\Debug\MODEL1.pdb
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL1\obj\Debug\MODEL1.csproj.AssemblyReference.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL1\obj\Debug\MODEL1.csproj.CoreCompileInputs.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL1\obj\Debug\MODEL1.dll
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL1\obj\Debug\MODEL1.pdb

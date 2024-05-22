@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB8CEEF-0CC8-4CAE-B9BE-228651A3DD14}|CONTROLLER1\\CONTROLLER1.csproj|d:\\d-ii\\semstre 2\\tp .net\\view\\controller1\\articleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB8CEEF-0CC8-4CAE-B9BE-228651A3DD14}|CONTROLLER1\\CONTROLLER1.csproj|solutionrelative:controller1\\articleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB8CEEF-0CC8-4CAE-B9BE-228651A3DD14}|CONTROLLER1\\CONTROLLER1.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\controller1\\categorieado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB8CEEF-0CC8-4CAE-B9BE-228651A3DD14}|CONTROLLER1\\CONTROLLER1.csproj|solutionrelative:controller1\\categorieado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB8CEEF-0CC8-4CAE-B9BE-228651A3DD14}|CONTROLLER1\\CONTROLLER1.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\controller1\\clientado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB8CEEF-0CC8-4CAE-B9BE-228651A3DD14}|CONTROLLER1\\CONTROLLER1.csproj|solutionrelative:controller1\\clientado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB8CEEF-0CC8-4CAE-B9BE-228651A3DD14}|CONTROLLER1\\CONTROLLER1.csproj|d:\\d-ii\\semstre 2\\tp .net\\view\\controller1\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB8CEEF-0CC8-4CAE-B9BE-228651A3DD14}|CONTROLLER1\\CONTROLLER1.csproj|solutionrelative:controller1\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7E661F-08E0-463C-BA6D-ADF71DB62E9C}|MODEL1\\MODEL1.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\model1\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7E661F-08E0-463C-BA6D-ADF71DB62E9C}|MODEL1\\MODEL1.csproj|solutionrelative:model1\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7E661F-08E0-463C-BA6D-ADF71DB62E9C}|MODEL1\\MODEL1.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\model1\\lignedecommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7E661F-08E0-463C-BA6D-ADF71DB62E9C}|MODEL1\\MODEL1.csproj|solutionrelative:model1\\lignedecommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7E661F-08E0-463C-BA6D-ADF71DB62E9C}|MODEL1\\MODEL1.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\model1\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7E661F-08E0-463C-BA6D-ADF71DB62E9C}|MODEL1\\MODEL1.csproj|solutionrelative:model1\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\formarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\formarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MODEL1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\usercontrolarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\usercontrolarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\usercontrolarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\usercontrolarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\usercontrolcommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\usercontrolcommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\usercontrolcommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\usercontrolcommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\formcategorie.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\formcategorie.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\usercontrolcategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\usercontrolcategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\formulaireprincipale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\formulaireprincipale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\formulaireprincipale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\formulaireprincipale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\usercontrolcategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\usercontrolcategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\windowsformsapp2\\formarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42BCAC-9BC5-4119-9695-C4DE7AFC7090}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\formarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\CONTROLLER1\\Connexion.cs",
+              "RelativeDocumentMoniker": "CONTROLLER1\\Connexion.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\CONTROLLER1\\Connexion.cs",
+              "RelativeToolTip": "CONTROLLER1\\Connexion.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:36:02.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleADO.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\CONTROLLER1\\ArticleADO.cs",
+              "RelativeDocumentMoniker": "CONTROLLER1\\ArticleADO.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\CONTROLLER1\\ArticleADO.cs",
+              "RelativeToolTip": "CONTROLLER1\\ArticleADO.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:43:05.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategorieADO.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\CONTROLLER1\\CategorieADO.cs",
+              "RelativeDocumentMoniker": "CONTROLLER1\\CategorieADO.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\CONTROLLER1\\CategorieADO.cs",
+              "RelativeToolTip": "CONTROLLER1\\CategorieADO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:44:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientADO.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\CONTROLLER1\\ClientADO.cs",
+              "RelativeDocumentMoniker": "CONTROLLER1\\ClientADO.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\CONTROLLER1\\ClientADO.cs",
+              "RelativeToolTip": "CONTROLLER1\\ClientADO.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAwFcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:51:47.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControlArticle.cs [Design]",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlArticle.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\UserControlArticle.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlArticle.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\UserControlArticle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:13:30.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LigneDeCommande.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\MODEL1\\LigneDeCommande.cs",
+              "RelativeDocumentMoniker": "MODEL1\\LigneDeCommande.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\MODEL1\\LigneDeCommande.cs",
+              "RelativeToolTip": "MODEL1\\LigneDeCommande.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:04:33.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\MODEL1\\Article.cs",
+              "RelativeDocumentMoniker": "MODEL1\\Article.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\MODEL1\\Article.cs",
+              "RelativeToolTip": "MODEL1\\Article.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:50:55.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\MODEL1\\Categorie.cs",
+              "RelativeDocumentMoniker": "MODEL1\\Categorie.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\MODEL1\\Categorie.cs",
+              "RelativeToolTip": "MODEL1\\Categorie.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:44:14.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MODEL1",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\MODEL1\\MODEL1.csproj",
+              "RelativeDocumentMoniker": "MODEL1\\MODEL1.csproj",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\MODEL1\\MODEL1.csproj",
+              "RelativeToolTip": "MODEL1\\MODEL1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-28T00:37:23.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:48:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAASwC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:48:19.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormArticle.cs [Design]",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormArticle.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\FormArticle.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormArticle.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\FormArticle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:47:52.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserControlArticle.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlArticle.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\UserControlArticle.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlArticle.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\UserControlArticle.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAIwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:14:59.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlCommande.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlCommande.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\UserControlCommande.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlCommande.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\UserControlCommande.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:36:06.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControlCommande.cs [Design]",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlCommande.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\UserControlCommande.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlCommande.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\UserControlCommande.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-03-06T13:32:12.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormCategorie.resx",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormCategorie.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\FormCategorie.resx",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormCategorie.resx",
+              "RelativeToolTip": "WindowsFormsApp2\\FormCategorie.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-06T13:55:42.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControlCategorie.cs [Design]",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlCategorie.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\UserControlCategorie.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlCategorie.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\UserControlCategorie.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-03-06T08:38:09.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormulairePrincipale.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormulairePrincipale.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\FormulairePrincipale.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormulairePrincipale.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\FormulairePrincipale.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAApwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-06T08:37:14.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormulairePrincipale.cs [Design]",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormulairePrincipale.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\FormulairePrincipale.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormulairePrincipale.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\FormulairePrincipale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-06T08:37:11.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserControlCategorie.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlCategorie.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\UserControlCategorie.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\UserControlCategorie.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\UserControlCategorie.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAASwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-03-06T08:43:46.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:42:13.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormArticle.cs",
+              "DocumentMoniker": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormArticle.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\FormArticle.cs",
+              "ToolTip": "D:\\D-II\\SEMSTRE 2\\TP .NET\\VIEW\\WindowsFormsApp2\\FormArticle.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\FormArticle.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:15:03.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

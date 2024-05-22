@@ -1,0 +1,9 @@
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\bin\Debug\VIEW.exe.config
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\bin\Debug\VIEW.exe
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\bin\Debug\VIEW.pdb
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\obj\Debug\VIEW.csproj.AssemblyReference.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\obj\Debug\VIEW.Properties.Resources.resources
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\obj\Debug\VIEW.csproj.GenerateResource.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\obj\Debug\VIEW.exe
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\VIEW\obj\Debug\VIEW.pdb

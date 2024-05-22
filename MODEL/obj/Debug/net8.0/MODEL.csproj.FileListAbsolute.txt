@@ -1,0 +1,12 @@
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\bin\Debug\net8.0\MODEL.deps.json
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\bin\Debug\net8.0\MODEL.dll
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\bin\Debug\net8.0\MODEL.pdb
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\MODEL.AssemblyInfoInputs.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\MODEL.AssemblyInfo.cs
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\MODEL.csproj.CoreCompileInputs.cache
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\MODEL.dll
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\refint\MODEL.dll
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\MODEL.pdb
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\ref\MODEL.dll
+D:\D-II\SEMSTRE 2\TP .NET\VIEW\MODEL\obj\Debug\net8.0\MODEL.csproj.AssemblyReference.cache
